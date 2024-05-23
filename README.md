@@ -9,7 +9,7 @@ In this course, you will try to understand the basics of CSS and how to use it t
 
 ## Scenarios
 
-|   Index | Name                                          | Difficulty   | URL                                                                  |
+|   Index | Name                                          | Difficulty   | Practice                                                             |
 |---------|-----------------------------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Your First CSS Lab                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92744'>Start Lab</a>  |
 |       2 | 📖 CSS Basics and Selectors                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289074'>Start Lab</a> |
@@ -17,4 +17,9 @@ In this course, you will try to understand the basics of CSS and how to use it t
 |       4 | 📖 Responsive Pet's House Website with Flexbox | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289076'>Start Lab</a> |
 |       5 | 📖 Pet Service Showcase with CSS Grid          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289077'>Start Lab</a> |
 |       6 | 📖 Animations and Transitions                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289073'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 
