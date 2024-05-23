@@ -20,6 +20,7 @@ In this course, you will try to understand the basics of CSS and how to use it t
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [CSS Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [CSS Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 
