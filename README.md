@@ -1,6 +1,6 @@
 # Quick Start with CSS
 
-![Quick Start with CSS](https://cover-creator.labex.io/quick-start-with-css.png)
+![Quick Start with CSS](https://cover-creator.appbot.io/quick-start-with-css.png)
 
 In this course, you will try to understand the basics of CSS and how to use it to style your web pages. At the end of this course, you will be able to create a simple web page with CSS.
 
