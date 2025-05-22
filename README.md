@@ -1,6 +1,6 @@
 # Quick Start with CSS
 
-[![Quick Start with CSS](https://cover-creator.appbot.io/quick-start-with-css.png)](https://labex.io/courses/quick-start-with-css)
+[![Quick Start with CSS](https://cover-creator.labex.io/quick-start-with-css.png)](https://labex.io/courses/quick-start-with-css)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-css)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,10 +25,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                         |
-|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
-|     001 | 📖 Your First CSS Lab                                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-your-first-css-lab-92744'>Start Lab</a>                                  |
-|     002 | 📖 CSS Basics and Selectors                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-css-basics-and-selectors-289074'>Start Lab</a>                           |
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                         |
+|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
+|     001 | 📖 Your First CSS Lab                                    | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/css-your-first-css-lab-92744'>Start Lab</a>                                  |
+|     002 | 📖 CSS Basics and Selectors                              | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/css-css-basics-and-selectors-289074'>Start Lab</a>                           |
 |     003 | 📖 CSS Box Model and Margins                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-css-box-model-and-margins-289075'>Start Lab</a>                          |
 |     004 | 📖 Responsive Pet's House Website with Flexbox           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-responsive-pet-s-house-website-with-flexbox-289076'>Start Lab</a>        |
 |     005 | 📖 Pet Service Showcase with CSS Grid                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-pet-service-showcase-with-css-grid-289077'>Start Lab</a>                 |
@@ -66,13 +66,13 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     037 | 📖 Beginner's Guide to CSS Fundamentals                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-beginner-s-guide-to-css-fundamentals-35251'>Start Lab</a>                |
 |     038 | 📖 CSS Styling Techniques for Web Development            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-css-styling-techniques-for-web-development-35181'>Start Lab</a>          |
 |     039 | 📖 Border with Top Triangle                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-border-with-top-triangle-35170'>Start Lab</a>                            |
-|     040 | 📖 Checkerboard Background Pattern                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-checkerboard-background-pattern-35180'>Start Lab</a>                     |
+|     040 | 📖 Checkerboard Background Pattern                       | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/css-checkerboard-background-pattern-35180'>Start Lab</a>                     |
 |     041 | 📖 Stripes Background Pattern                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-stripes-background-pattern-35244'>Start Lab</a>                          |
 |     042 | 📖 Polka Dot Background Pattern                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-polka-dot-background-pattern-35229'>Start Lab</a>                        |
 |     043 | 📖 Zig Zag Background Pattern                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-zig-zag-background-pattern-35258'>Start Lab</a>                          |
 |     044 | 📖 Creating Shape Separators with CSS                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-creating-shape-separators-with-css-35238'>Start Lab</a>                  |
 |     045 | 📖 Dynamic CSS Shadows Creation                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-dynamic-css-shadows-creation-35194'>Start Lab</a>                        |
-|     046 | 📖 Overflow Scroll Gradient                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-overflow-scroll-gradient-35228'>Start Lab</a>                            |
+|     046 | 📖 Overflow Scroll Gradient                              | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/css-overflow-scroll-gradient-35228'>Start Lab</a>                            |
 |     047 | 📖 Hide Scroll Bars                                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-hide-scroll-bars-35209'>Start Lab</a>                                    |
 |     048 | 📖 Customizing Scrollbar Styles with CSS                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-customizing-scrollbar-styles-with-css-35187'>Start Lab</a>               |
 |     049 | 📖 Image Text Overlay                                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-image-text-overlay-35247'>Start Lab</a>                                  |
@@ -92,7 +92,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     063 | 📖 Button Shrink Animation                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-button-shrink-animation-35178'>Start Lab</a>                             |
 |     064 | 📖 Crafting Pulsing CSS Loader Animation                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-crafting-pulsing-css-loader-animation-35232'>Start Lab</a>               |
 |     065 | 📖 CSS Techniques for Visually Appealing Designs         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-css-techniques-for-visually-appealing-designs-35192'>Start Lab</a>       |
-|     066 | 📖 Zoom in Zoom Out Animation                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-zoom-in-zoom-out-animation-35259'>Start Lab</a>                          |
+|     066 | 📖 Zoom in Zoom Out Animation                            | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/css-zoom-in-zoom-out-animation-35259'>Start Lab</a>                          |
 |     067 | 📖 Button Border Animation                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-button-border-animation-35174'>Start Lab</a>                             |
 |     068 | 📖 Hover Shadow Box Animation                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-hover-shadow-box-animation-35214'>Start Lab</a>                          |
 |     069 | 📖 Image Rotate on Hover                                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-image-rotate-on-hover-35217'>Start Lab</a>                               |
@@ -108,15 +108,15 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     079 | 📖 Button Swing Animation                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-button-swing-animation-35175'>Start Lab</a>                              |
 |     080 | 📖 Create Rotating Card with CSS                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-create-rotating-card-with-css-35235'>Start Lab</a>                       |
 |     081 | 📖 Image Gallery with Horizontal Scroll                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-image-gallery-with-horizontal-scroll-35210'>Start Lab</a>                |
-|     082 | 📖 Hover Underline Animation                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-hover-underline-animation-35215'>Start Lab</a>                           |
+|     082 | 📖 Hover Underline Animation                             | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/css-hover-underline-animation-35215'>Start Lab</a>                           |
 |     083 | 📖 Menu on Image Hover                                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-menu-on-image-hover-35216'>Start Lab</a>                                 |
 |     084 | 📖 Navigation List Item Hover and Focus Effect           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-navigation-list-item-hover-and-focus-effect-35226'>Start Lab</a>         |
 |     085 | 📖 Custom Radio Button                                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-custom-radio-button-35186'>Start Lab</a>                                 |
-|     086 | 📖 Mouse Cursor Gradient Tracking                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-mouse-cursor-gradient-tracking-35225'>Start Lab</a>                      |
+|     086 | 📖 Mouse Cursor Gradient Tracking                        | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/css-mouse-cursor-gradient-tracking-35225'>Start Lab</a>                      |
 |     087 | 📖 Creating Typewriter Effect with HTML CSS JavaScrip... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-creating-typewriter-effect-with-html-css-javascript-35254'>Start Lab</a> |
 |     088 | 📖 List with Floating Section Headings                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-list-with-floating-section-headings-35199'>Start Lab</a>                 |
 |     089 | 📖 Bouncing CSS Animation Loader                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-bouncing-css-animation-loader-35171'>Start Lab</a>                       |
-|     090 | 📖 3D Rotating Cube                                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-3d-rotating-cube-165641'>Start Lab</a>                                   |
+|     090 | 📖 3D Rotating Cube                                      | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/css-3d-rotating-cube-165641'>Start Lab</a>                                   |
 |     091 | 📖 Image Overlay on Hover                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-image-overlay-on-hover-35219'>Start Lab</a>                              |
 |     092 | 📖 Animated Social Sharing Buttons with CSS              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-animated-social-sharing-buttons-with-css-179618'>Start Lab</a>           |
 |     093 | 📖 Animated Checkbox Styling with CSS                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/css-animated-checkbox-styling-with-css-35185'>Start Lab</a>                  |
